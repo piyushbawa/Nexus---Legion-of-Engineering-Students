@@ -12,3 +12,4 @@ user-to-user recommendations are mimicked. It makes predictions about users' pre
 weighted, linear combination of those of other users.
 
  
+![image](https://github.com/user-attachments/assets/6c3e9fb5-60b2-44e4-b3af-8e9af7ac3612)
